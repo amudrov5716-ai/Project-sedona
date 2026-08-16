@@ -2,7 +2,7 @@
 
 * Студент: [Алексей Мудров](https://github.com/amudrov5716-ai).
 * Наставник:[Неизвестно]({{userProfile}}).
-
+* Сайт:[Project-sedona](https://amudrov5716-ai.github.io/Project-sedona/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
